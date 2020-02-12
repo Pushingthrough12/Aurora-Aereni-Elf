@@ -4,8 +4,8 @@
     <name>Aerenal High Elf</name>
     <description>Subrace from the aroro.</description>
     <author url="https://github.com/Pushingthrough12/Aurora-Aereni-Elf">u/Pushingthrough12</author>
-    <update version="1">
-      <file name="aereni.xml" url="https://raw.githubusercontent.com/Pushingthrough12/Aurora-Aereni-Elf/master/Aereni.xml" />
+    <update version="0.1.2">
+      <file name="Aereni.xml" url="https://raw.githubusercontent.com/Pushingthrough12/Aurora-Aereni-Elf/master/Aereni.xml" />
     </update> 
   </info>
   <element name="Aereni HE" type="Sub Race" source="Aroro" id="ID_ARORO_SUBRACE_AERENI" >
